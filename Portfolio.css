@@ -310,10 +310,10 @@ section .title::after{
     width: 90%;
 }
 .skills-content .left .Js::before{
-    width: 70%;
+    width: 80%;
 }
-.skills-content .left .Python::before{
-    width: 85%;
+.skills-content .left .Java::before{
+    width: 75%;
 }
 .skills .skills-content .right .text1{
     font-size: 30px;
